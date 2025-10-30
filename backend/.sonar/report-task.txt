@@ -1,0 +1,6 @@
+projectKey=Test-Notes-Project
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=Test-Notes-Project
+ceTaskId=3651a566-f892-41ae-95cf-16891b60317d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=3651a566-f892-41ae-95cf-16891b60317d
